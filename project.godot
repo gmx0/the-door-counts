@@ -1,0 +1,13 @@
+config_version=5
+[application]
+config/name="The Door Counts"
+run/main_scene="res://main.tscn"
+config/version="1.0.0"
+[display]
+window/size/viewport_width=1100
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.025,0.027,0.035,1)
